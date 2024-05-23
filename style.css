@@ -1,4 +1,10 @@
 body{
   background-color: white;
 }
+#left {
+  width: 25%;
+}
+#right {
+  width: 75%;
+}
 
