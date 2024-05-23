@@ -1,10 +1,15 @@
-body{
-  background-color: white;
+UL{
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  overflow:hidden;
+  background-color:#777
+  float:left;
 }
-#left {
-  width: 25%;
+li{
+ display: block;
 }
-#right {
-  width: 75%;
+li a{
+  color:red;
+  text-align:center;
 }
-
