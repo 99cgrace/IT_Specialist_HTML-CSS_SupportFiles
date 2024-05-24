@@ -42,17 +42,6 @@ li.dropDown{
   display:block;
 }
 
-li a{
-  color:red;
-  text-align:center;
-  padding:10px 12px;
-}
-li a:hover{
-  background-color:pink;
-}
-.active {
-  background-color:pink;
-}
 .dropDown{
   position:relative;
   display:inline-block;
